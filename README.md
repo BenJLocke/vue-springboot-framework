@@ -2,7 +2,7 @@
 目前来说只是一个简单的DEMO，还有太多不完善的地方，所以只是简单的给大家参考一下而已。
 
 两个项目是：
-https://github.com/lin-xin/vue-manage-system
-https://github.com/longfeizheng/jpa-example/tree/master/h2-webconsole/
+1. https://github.com/lin-xin/vue-manage-system
+2. https://github.com/longfeizheng/jpa-example/tree/master/h2-webconsole/
 
 
