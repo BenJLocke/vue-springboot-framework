@@ -26,6 +26,10 @@ spring:
       settings:
         trace: false
         web-allow-others: false
+  influx:
+     url: https://192.168.0.89:8086
+     username: admin
+     password: admin
 logging:
   level: debug
 server:
